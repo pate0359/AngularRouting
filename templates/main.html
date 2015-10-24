@@ -1,32 +1,19 @@
 <main>
 <!--
-
 	<div class="well">
 		<pre> {{allData | json}}</pre>
 	</div>
 -->
-<!--
-    <div class="row">
-        <div class="col-xs-4 col-lg-3" ng-repeat="item in allData.items">
-          <h2>{{item.name}}</h2>
-			<img ng-src="/img/{{item.image}}">
-          <p><a class="btn btn-default" href="#/details/{{item.id}}" role="button">View details &raquo;</a></p>
-        </div>
-        
-    </div>
--->
-	
 	<div class="card-group row">
-  <div class="card col-xs-4 col-lg-3" ng-repeat="item in allData.items">
-    <h4 class="card-title">{{item.name}}</h4>
-    <div class="card-block">
-      
-		<img class="card-img-top"  ng-src="img/{{item.image}}" alt="Card image cap">
-<!--		<img ng-src="/img/{{item.image}}">-->
-		<p class="card-text"><small class="text-muted">Active Since : {{item.yearOfActive}}</small></p>
-		<p><a class="btn btn-default" href="#/details/{{item.id}}" role="button">View details</a></p>
-    </div>
-  </div>
+		<div class="card col-xs-4 col-lg-3" ng-repeat="item in allData.items">
+			<h4 class="card-title">{{item.name}}</h4>
+			<div class="card-block">
+
+				<img class="card-img-top" ng-src="img/{{item.image}}" alt="Card image cap">
+				<p class="card-text"><small class="text-muted">Active Since : {{item.yearOfActive}}</small></p>
+				<p><a class="btn btn-default" href="#/details/{{item.id}}" role="button">View details</a></p>
+			</div>
+		</div>
 	</div>
-		
-</main> 
+
+</main>
