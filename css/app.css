@@ -5,5 +5,10 @@ header h1{
     color: #3399CC;
 }
 
+img
+{
+	width: 100%;
+}
+
 /* -- fix for angular ui-bootstrap to handle empty href values properly --  */
 .nav, .pagination, .carousel, .panel-title a { cursor: pointer; }
