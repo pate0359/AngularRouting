@@ -5,11 +5,13 @@
 	</div>
 -->
 	<div class="card-group row margin-top-8">
-		<div class="card col-xs-4 col-lg-3" ng-repeat="item in allData.items">
+		<div class="card col-xs-3 col-sm-3 col-md-3 col-lg-3" ng-repeat="item in allData.items">
 			<h4 class="card-title">{{item.name}}</h4>
 			<div class="card-block text-center">
 
-				<img class="card-img-top" ng-src="img/{{item.image}}" alt="Card image cap">
+				<div class="card-img-top">
+				<img  ng-src="img/{{item.image}}" alt="Card image cap">
+				</div>
 				<p class="card-text margin-top-1"><small class="text-muted">Active Since : {{item.yearOfActive}}</small></p>
 				<div class="centered margin-bottom-5">
     				<p><a class="btn btn-default" href="#/details/{{item.id}}" role="button">More details</a></p>
