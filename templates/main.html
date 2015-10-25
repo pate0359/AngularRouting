@@ -4,14 +4,17 @@
 		<pre> {{allData | json}}</pre>
 	</div>
 -->
-	<div class="card-group row">
+	<div class="card-group row margin-top-8">
 		<div class="card col-xs-4 col-lg-3" ng-repeat="item in allData.items">
 			<h4 class="card-title">{{item.name}}</h4>
-			<div class="card-block">
+			<div class="card-block text-center">
 
 				<img class="card-img-top" ng-src="img/{{item.image}}" alt="Card image cap">
-				<p class="card-text"><small class="text-muted">Active Since : {{item.yearOfActive}}</small></p>
-				<p><a class="btn btn-default" href="#/details/{{item.id}}" role="button">View details</a></p>
+				<p class="card-text margin-top-1"><small class="text-muted">Active Since : {{item.yearOfActive}}</small></p>
+				<div class="centered margin-bottom-5">
+    				<p><a class="btn btn-default" href="#/details/{{item.id}}" role="button">More details</a></p>
+				</div>
+				
 			</div>
 		</div>
 	</div>

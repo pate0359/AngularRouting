@@ -1,11 +1,11 @@
 <main>
-	<div class="card-group row">
+	<div class="card-group row margin-top-8">
 		<div class="card col-xs-6 col-xs-offset-3 card col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-2 col-lg-6 col-lg-offset-3">
 			<h4 class="card-title">{{item.name}}</h4>
 			<div class="card-block">
 
 				<img class="card-img-top" ng-src="img/{{item.image}}" alt="Card image cap">
-				<p class="card-text"> {{item.desc}}</p>
+				<p class="card-text margin-top-3"> {{item.desc}}</p>
 				<p class="card-text">Age : {{item.age}}</p>
 				<p class="card-text">Year of Active : {{item.yearOfActive}}</p>
 				<p class="card-text">Earning per Year : {{item.earning | currency}}</p>
@@ -14,7 +14,7 @@
 		</div>
 	</div>
 
-	<div class="row">
+	<div class="row text-center margin-top-3 margin-bottom-3">
 		<a href="#/" class="btn btn-primary btn-lg">Back to List</a>
 	</div>
 

@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Angelina Jolie",
 	"image":"angelina_jolie.jpg",
-      "desc": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+      "desc": "Angelina Jolie Pitt is an American actress, filmmaker, and humanitarian. She has received an Academy Award, two Screen Actors Guild Awards, and three Golden Globe Awards, and has been cited as Hollywood's highest-paid actress. Jolie made her screen debut as a child alongside her father, Jon Voight, in Lookin' to Get Out (1982). Her film career began in earnest a decade later with the low-budget production Cyborg 2 (1993), followed by her first leading role in a major film, Hackers (1995). She starred in the critically acclaimed biographical television films George Wallace (1997) and Gia (1998), and won an Academy Award for Best Supporting Actress for her performance in the drama Girl, Interrupted (1999).",
 		"yearOfActive":"1991-present",
 		"age":40,
       "earning": 10000000
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "name": "Demi Lovato",
-      "desc": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+      "desc": "Demetria Devonne \"Demi\" Lovato is an American singer, songwriter, actress and model who made her debut as a child actress in Barney & Friends. In 2008, Lovato rose to prominence in the Disney Channel television film Camp Rock and signed a recording contract with Hollywood Records. Musically, Lovato is considered a pop and pop rock singer.She released her debut album, Don't Forget, that September; it debuted at No. 2 on the US Billboard 200 and has been certified gold by the Recording Industry Association of America (RIAA) for sales of over 530,000 copies. In 2009, Lovato received her own television series, Sonny with a Chance. Her second album, Here We Go Again, was released that July and debuted at number one on the U.S Billboard 200, and it has been certified gold by the Recording Industry Association of America (RIAA) for sales of over 650,000 copies. Its title track became her first single to break the top 20 of the Billboard Hot 100, reaching number 15, and was certified platinum.",
       "image":"demi_lovato.jpg",
 		"age":34,
 		"yearOfActive":"2002-present",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "Derek Jeter",
-      "desc": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+      "desc": "Derek Sanderson Jeter(born June 26, 1974) is an American former professional baseball shortstop who played 20 seasons in Major League Baseball (MLB) for the New York Yankees. A five-time World Series champion, Jeter is regarded as a central figure of the Yankees' success of the late 1990s and early 2000s for his hitting, baserunning, fielding, and leadership. He is the Yankees' all-time career leader in hits (3,465), doubles (544), games played (2,747), stolen bases (358), times on base (4,716), plate appearances (12,602) and at bats (11,195). His accolades include 14 All-Star selections, five Gold Glove Awards, five Silver Slugger Awards, two Hank Aaron Awards, and a Roberto Clemente Award. Jeter became the 28th player to reach 3,000 hits and finished his career sixth all-time in career hits and the all-time MLB leader in hits by a shortstop.",
       "image":"derek_jeter.jpg",
 		"age":32,
 		"yearOfActive":"1994-2004",
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "name": "Brad Pitt",
-      "desc": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+      "desc": "William Bradley \"Brad\" Pitt (born December 18, 1963) is an American actor and producer. He has received a Golden Globe Award, a Screen Actors Guild Award, and three Academy Award nominations in acting categories, and received two further Academy Award nominations, winning one, as producer under his own company Plan B Entertainment.",
       "image":"brad_pitt.jpg",
 		"age":39,
 		"yearOfActive":"1987-present",
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "name": "Jet Li",
-      "desc": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+      "desc": "Li Lianjie born 26 April 1963), better known by his English stage name Jet Li, is a Chinese film actor, film producer, martial artist, and wushu champion who was born in Beijing. He is a naturalised Singaporean citizen.After three years of intensive training with Wu Bin, Li won his first national championship for the Beijing Wushu Team. After retiring from Wushu at age 19, he went on to win great acclaim in China as an actor making his debut with the film Shaolin Temple (1982). He went on to star in many critically acclaimed martial arts epic films, most notably the Once Upon A Time in China series, in which he portrayed folk hero Wong Fei-hung.",
       "image":"jet_li.jpg",
 		"age":34,
 		"yearOfActive":"1982-present",
@@ -48,7 +48,7 @@
     {
       "id": 6,
       "name": "Johny Depp",
-      "desc": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+      "desc": "John Christopher \"Johnny\" Depp II (born June 9, 1963)is an American actor, producer, and musician. He has won the Golden Globe Award and Screen Actors Guild Award for Best Actor. He rose to prominence on the 1980s television series 21 Jump Street, becoming a teen idol.Since then, Depp has taken on challenging and \"larger-than-life\" roles, starting with a supporting role in Oliver Stone's Vietnam War film Platoon in 1986, then playing the title character in the romantic dark fantasy Edward Scissorhands (1990). He later found box office success in the fantasy adventure film Sleepy Hollow (1999), the fantasy swashbuckler film Pirates of the Caribbean: The Curse of the Black Pearl (2003) and its sequels, the musical adventure film Charlie and the Chocolate Factory (2005), the fantasy film Alice in Wonderland (2010) and voicing the title character in the animated action comedy western Rango (2011). He has collaborated on eight films with director and friend Tim Burton.",
       "image":"johnny_depp.jpg",
 		"age":36,
 		"yearOfActive":"1984-present",
@@ -57,7 +57,7 @@
     {
       "id": 7,
       "name": "Keira Knightley",
-      "desc": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+      "desc": "Keira Christina Knightley (born 26 March 1985) is an English actress. She began acting as a child on television and made her film debut in 1995. She had a supporting role as Sabé in Star Wars Episode I: The Phantom Menace (1999) and her first significant role came in the psychological horror film The Hole (2001). She gained widespread recognition in 2002 after co-starring in the film Bend It Like Beckham and achieved international fame in 2003 after appearing as Elizabeth Swann in the Pirates of the Caribbean film series.",
       "image":"keira_knightley.jpg",
 		"age":37,
 		"yearOfActive":"1993-present",
@@ -66,7 +66,7 @@
     {
       "id": 8,
       "name": "Maria Sharapova",
-      "desc": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+      "desc": "Maria Yuryevna Sharapova (born 19 April 1987) is a Russian professional tennis player, who is ranked world No. 3 by the Women's Tennis Association (WTA). A United States resident since 1994, Sharapova has competed on the WTA tour since 2001. She has been ranked world No. 1 in singles by the WTA on five separate occasions, for a total of 21 weeks. She is one of ten women, and the only Russian, to hold the career Grand Slam. She is also an Olympic medalist, having earned silver for Russia in women's singles at the 2012 Summer Olympics in London.",
       "image":"maria_sharapova.jpg",
 		"age":38,
 		"yearOfActive":"1998-present",
@@ -75,7 +75,7 @@
     {
       "id": 9,
       "name": "Nina Dobrev",
-      "desc": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+      "desc": "Nina Dobrev (born January 9, 1989) is a Bulgarian Canadian actress and model. She played the role of Mia Jones, the single teenage mother, on Degrassi: The Next Generation, in seasons six to nine (2006–09). She then played the role of Elena Gilbert on The CW's supernatural drama, The Vampire Diaries, from 2009–15.",
       "image":"nina_dobrev.jpg",
 		"age":40,
 		"yearOfActive":"1992-present",
@@ -84,7 +84,7 @@
     {
       "id": 10,
       "name": "Natalie Portman",
-      "desc": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+      "desc": "Natalie Portman (born June 9, 1981) is an actress, producer and director with dual American and Israeli citizenship. Her first role was in the 1994 action thriller Léon: The Professional, opposite Jean Reno, but mainstream success came when she was cast as Padmé Amidala in the Star Wars prequel trilogy (released in 1999, 2002 and 2005). In 1999, she enrolled at Harvard University to study psychology while still working as an actress. She completed a bachelor's degree in 2003.",
       "image":"natalie_portman.jpg",
 		"age":43,
 		"yearOfActive":"2006-present",
@@ -93,7 +93,7 @@
     {
       "id": 11,
       "name": "Rita Ora",
-      "desc": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+      "desc": "Rita Sahatçiu Ora (born 26 November 1990) is a British singer and actress. Her debut studio album, Ora, released in 2012, debuted at number one in the United Kingdom. The album contained the UK number-one singles, \"R.I.P.\" and \"How We Do (Party)\". After reaching the peak position as a featured act on DJ Fresh's \"Hot Right Now\", Ora became the artist with the most number-one singles on the UK Singles Chart in 2012, with three consecutive singles reaching the top position. She was nominated for three Brit Awards at the 2013 ceremony.",
       "image":"rita_ora.jpg",
 		"age":42,
 		"yearOfActive":"2007-present",
@@ -102,7 +102,7 @@
     {
       "id": 12,
       "name": "Robert Downey",
-      "desc": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+      "desc": "Robert John Downey, Jr. (born April 4, 1965) is an American actor whose career has included critical and popular success in his youth, followed by a period of substance abuse and legal troubles, and a resurgence of commercial success in middle age.Making his screen debut at the age of five, appearing in his father's film Pound (1970), he appeared in roles associated with the Brat Pack, such as the teen sci-fi comedy Weird Science (1985) and the drama Less Than Zero (1987). Other films he has starred in include the action comedy Air America (1990), the comedy Soapdish (1991), and the crime film Natural Born Killers (1994). He starred as Charlie Chaplin, the title character in the 1992 film Chaplin, which earned him a nomination for the Academy Award for Best Actor.",
       "image":"robert_downey_jr_.jpg",
 		"age":41,
 		"yearOfActive":"1970-present",
@@ -111,7 +111,7 @@
     {
       "id": 13,
       "name": "Rowan Atkinson",
-      "desc": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+      "desc": "Rowan Sebastian Atkinson, CBE (born 6 January 1955) is an English actor, comedian, and screenwriter best known for his work on the sitcoms Blackadder and Mr. Bean. Atkinson first came to prominence in the sketch comedy show Not the Nine O'Clock News (1979–82), and via his participation in The Secret Policeman's Balls from 1979. His other work includes the sitcom The Thin Blue Line (1995–1996).He was listed in The Observer as one of the 50 funniest actors in British comedy and amongst the top 50 comedians ever, in a 2005 poll of fellow comedians. He has also had cinematic success with his performances in the Mr. Bean movie adaptations Bean and Mr. Bean's Holiday and in Johnny English (2003) and its sequel Johnny English Reborn (2011).",
       "image":"rowan_atkinson.jpg",
 		"age":40,
 		"yearOfActive":"1978-present",
@@ -120,7 +120,7 @@
     {
       "id": 14,
       "name": "Sarah Shahi",
-      "desc": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+      "desc": "Sarah Shahi was born on January 10, 1980, in Euless, Texas, and raised there. She is the daughter of Mah Monir, an interior designer, and Abbas Jahansouz Shahi, who divorced when she was ten. Her father is from Iran, and her mother is half Persian paternally, half Spanish maternally from Spain. She has an older brother, Cyrus, and a younger sister, Samantha, who is a production assistant. Her father's family left Iran two years before the Iranian Revolution. Her father, who was working at the American Embassy in Iran, was slated for execution when the regime collapsed in 1979 but was allowed to flee the country. Her birth name, Aahoo , means \"gazelle\" in Persian. She is a great-great-granddaughter of Fath-Ali Shah Qajar of the Qajar Dynasty, who ruled Iran from 1797 to 1834, by one of his wives, Begom Khanom, daughter of Hossein Qoli Khan Afshar, niece of Begom Khanom, daughter Emam Qoli Khan Afshar, through their son Jahansouz Shah.",
       "image":"sarah_shahi.jpg",
 		"age":35,
 		"yearOfActive":"1988-present",
@@ -129,7 +129,7 @@
     {
       "id": 15,
       "name": "Sylvester Stallone",
-      "desc": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+      "desc": "Sylvester Gardenzio Stallone (born July 6, 1946), nicknamed Sly Stallone, is an American actor, screenwriter and film director.Stallone is well known for his Hollywood action roles, particularly boxer Rocky Balboa, the title character of the Rocky series from 1976 to 2008, and soldier John Rambo from the Rambo saga, which ran from 1982 to 2008. He wrote every episode of the two franchises, and directed some of their installments as well.Stallone directed, co-wrote and starred in the 2010 ensemble action film The Expendables, alongside many other distinguished actors. He reprised his role of Barney Ross in two more Expendables films, The Expendables 2 in 2012 and The Expendables 3 in 2014, although he did not return to direct the two sequels.",
       "image":"sylvester_stallone.jpg",
 		"age":38,
 		"yearOfActive":"1970-present",

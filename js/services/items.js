@@ -7,7 +7,7 @@ angular.module('Booya')
 		{
 			return $http({method:'GET', url:'data/items.json'});
 		},
-		getOne:function()
+		getOne:function(id)
 		{
 			return $http({method:'GET', url:'data/items.json'});
 		},
